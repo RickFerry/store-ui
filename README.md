@@ -1,6 +1,6 @@
 
 ```markdown
-# Produto Frontend
+# Store UI
 
 Frontend para consumir a API de gerenciamento de produtos. Esta aplicação é construída com ReactJS e usa Docker e Docker Compose para o setup.
 
@@ -13,7 +13,7 @@ Frontend para consumir a API de gerenciamento de produtos. Esta aplicação é c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/exemplo/produto-frontend.git
+   git clone https://github.com/exemplo/store-ui.git
    cd produto-frontend
    ```
 
