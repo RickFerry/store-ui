@@ -32,3 +32,4 @@ Você pode interagir com a aplicação através do navegador acessando `http://l
 ### 5. Executando e Testando
 
 Para executar e testar a aplicação, siga as instruções no README.md. Abra o navegador e navegue até `http://localhost:3000` para começar a usar a aplicação.
+```
